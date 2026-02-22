@@ -1,7 +1,7 @@
 # FBI DarkPlus
 **2ipper(2b-zipper)made the original.**
 
-** Ill work on this in the future to make it a bit better**
+**Ill work on this in the future to make it a bit better**
 
 FBI-DarkPlus is an open source title manager for the 3DS. FBI was originally authored by Steveice10.
 
